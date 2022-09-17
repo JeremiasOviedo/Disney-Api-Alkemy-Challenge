@@ -24,7 +24,7 @@ frontend pueda consumirla. Algunos elementos que debes tener en cuenta:
  <li>Spring email Sender</li>
  
  Puedes ver la documentacion aqui
- <a href="https://documenter.getpostman.com/view/23336503/2s7YmuhjaN>Disney API </a>
+ <a href="https://documenter.getpostman.com/view/23336503/2s7YmuhjaN">Disney API </a>
  
  <h2>NOTA: Por cuestiones de tiempo no pude configurar ni Spring Security ni JWT, tampoco el email sender, para usar la api vas a
  tener que usar el usuario y contraseña otorgado por spring security</h2>
